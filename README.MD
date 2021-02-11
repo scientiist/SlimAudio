@@ -10,7 +10,7 @@ supported filetypes: .wav, .mp3, .ogg should all work, i dunno about .flac
 
 arguments:
 
-`	-v --volume 0-100
+	`-v --volume 0-100
 
 	-r --repeat repeatCount
 	
