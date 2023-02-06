@@ -27,6 +27,6 @@ Use the code for your own shit, at your own risk. I'm not buying you a new subwo
 you nuke it by accident lol.
 
 
-conarium.xyz
+http://conarium.software
 
-contact:> josh@mail.conarium.xyz
+contact:> josh@conarium.software
